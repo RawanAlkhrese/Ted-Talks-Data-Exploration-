@@ -8,7 +8,6 @@ TED always amazes me of how their conference are organized and how one conferenc
  ## About the Data:
 [TED Talks dataset](https://www.kaggle.com/rounakbanik/ted-talks) is used for this project. It contains information about conferences that recorded and uploaded to their official website TED.com. Information such as number of views and ratings, titles, name of speaker and descriptions.
  ## Files Descriptions:
- *finding_donors folder:*
  - **Ted-Talks-Data Exploration.ipynb:** contains the code of the prject. 
  - **ted_mian.csv:** the dataset as csv file format. 
  --------------
