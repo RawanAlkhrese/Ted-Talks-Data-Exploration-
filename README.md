@@ -1,4 +1,4 @@
-# Ted-Talks-Data-Exploration-
+# Ted-Talks-Data-Exploration
 ## Prerequisites
 - **Python versions 3.0+**
 - **Pandas:** to read and clean the data.
