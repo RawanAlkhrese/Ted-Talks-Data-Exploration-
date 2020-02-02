@@ -4,7 +4,7 @@
 - **Pandas:** to read and clean the data.
 - **Matplotlib:** to visulize the data.
 ## Project Motivation:
-TED has been always amazed me of how their conferences are organized and how one conference can cover many topics from different fields. The main goal of this project is to apply my data science skills analyzing Ted Talks dataset from Kaggle and I will focus to find answers of these questions: 
+TED has been always amazed me of how their conferences are organized and how one conference can cover many topics from different fields. The main goal of this project is to apply my data science skills by analyzing Ted Talks dataset from Kaggle. I will focus to find answers of these questions: 
 - What are the top 10 most watched TED talks?
 - What is the most popular month for TED talks' events?
 - What is the average length of TED talk?
